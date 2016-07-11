@@ -1,0 +1,6 @@
+c:\users\vkdiv\documents\visual studio 2015\Projects\PokerHands\PokerHands\bin\Debug\PokerHands.exe.config
+c:\users\vkdiv\documents\visual studio 2015\Projects\PokerHands\PokerHands\bin\Debug\PokerHands.exe
+c:\users\vkdiv\documents\visual studio 2015\Projects\PokerHands\PokerHands\bin\Debug\PokerHands.pdb
+c:\users\vkdiv\documents\visual studio 2015\Projects\PokerHands\PokerHands\obj\Debug\PokerHands.csprojResolveAssemblyReference.cache
+c:\users\vkdiv\documents\visual studio 2015\Projects\PokerHands\PokerHands\obj\Debug\PokerHands.exe
+c:\users\vkdiv\documents\visual studio 2015\Projects\PokerHands\PokerHands\obj\Debug\PokerHands.pdb
